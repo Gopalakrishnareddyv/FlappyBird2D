@@ -28,7 +28,11 @@ public class GroundMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = new Vector2(transform.position.x + groundSpeed * Time.deltaTime, transform.position.y);
+        if (GameManager.gameOver == false)
+        {
+            transform.position = new Vector2(transform.position.x + groundSpeed * Time.deltaTime, transform.position.y);
+
+        }
         if (gameObject.CompareTag("Ground"))
         {
             if (transform.position.x <= -groundWidth)

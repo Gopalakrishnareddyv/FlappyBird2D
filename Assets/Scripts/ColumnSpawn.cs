@@ -17,12 +17,16 @@ public class ColumnSpawn : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        time += Time.deltaTime;
-        if (time >= maxTime)
+        if (GameManager.gameOver == false)
         {
-            Spawn();
-            time = 0;
+            time += Time.deltaTime;
+            if (time >= maxTime)
+            {
+                Spawn();
+                time = 0;
+            }
         }
+            
     }
     void Spawn()
     {
