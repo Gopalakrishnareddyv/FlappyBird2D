@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 5ebc63674bacb4147a3aa91bb122d5d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6441429256770731484
+    second: cartoon-game-background-260nw-303257369_0
+  - first:
+      213: 9097443152953002312
+    second: cartoon-game-background-260nw-303257369_1
+  - first:
+      213: 7841859091066843936
+    second: cartoon-game-background-260nw-303257369_2
+  - first:
+      213: -4232739288733464139
+    second: cartoon-game-background-260nw-303257369_3
+  - first:
+      213: 8259985923573721068
+    second: cartoon-game-background-260nw-303257369_4
+  - first:
+      213: -736334548710029642
+    second: cartoon-game-background-260nw-303257369_5
+  - first:
+      213: 3446233568461621722
+    second: cartoon-game-background-260nw-303257369_6
+  - first:
+      213: 7490492230309860904
+    second: cartoon-game-background-260nw-303257369_7
+  - first:
+      213: -150296061540760766
+    second: cartoon-game-background-260nw-303257369_8
+  - first:
+      213: -8351802817793810678
+    second: cartoon-game-background-260nw-303257369_9
+  - first:
+      213: -7449793741760286182
+    second: cartoon-game-background-260nw-303257369_10
+  - first:
+      213: -4917601955730449957
+    second: cartoon-game-background-260nw-303257369_11
+  - first:
+      213: 1360723572021093567
+    second: cartoon-game-background-260nw-303257369_12
+  - first:
+      213: 4186313258011900181
+    second: cartoon-game-background-260nw-303257369_13
+  - first:
+      213: 8986290783478568232
+    second: cartoon-game-background-260nw-303257369_14
+  - first:
+      213: 2541849608858641015
+    second: cartoon-game-background-260nw-303257369_15
+  - first:
+      213: 7019818314748533198
+    second: cartoon-game-background-260nw-303257369_16
+  - first:
+      213: -3459477074274688709
+    second: cartoon-game-background-260nw-303257369_17
+  - first:
+      213: -978553830970566097
+    second: cartoon-game-background-260nw-303257369_18
+  - first:
+      213: 2598649061464879729
+    second: cartoon-game-background-260nw-303257369_19
+  - first:
+      213: 1311335264099042932
+    second: cartoon-game-background-260nw-303257369_20
+  - first:
+      213: 7843431395806384199
+    second: cartoon-game-background-260nw-303257369_21
+  - first:
+      213: -1175826125035006150
+    second: cartoon-game-background-260nw-303257369_22
+  - first:
+      213: 6280780224996048246
+    second: cartoon-game-background-260nw-303257369_23
+  - first:
+      213: -8349469844311268305
+    second: cartoon-game-background-260nw-303257369_24
+  - first:
+      213: 7473630630844229042
+    second: cartoon-game-background-260nw-303257369_25
+  - first:
+      213: 6189788457046437639
+    second: cartoon-game-background-260nw-303257369_26
+  - first:
+      213: -5828810729222135668
+    second: cartoon-game-background-260nw-303257369_27
+  - first:
+      213: -5747323336238884
+    second: cartoon-game-background-260nw-303257369_28
+  - first:
+      213: 3367732367880477868
+    second: cartoon-game-background-260nw-303257369_29
+  - first:
+      213: -6491829265454850267
+    second: cartoon-game-background-260nw-303257369_30
+  - first:
+      213: 3071900261953089685
+    second: cartoon-game-background-260nw-303257369_31
+  - first:
+      213: -1639711897807581423
+    second: cartoon-game-background-260nw-303257369_32
+  - first:
+      213: -627380027810915104
+    second: cartoon-game-background-260nw-303257369_33
+  - first:
+      213: -6322815441627101418
+    second: cartoon-game-background-260nw-303257369_34
+  - first:
+      213: 4332152714569056077
+    second: cartoon-game-background-260nw-303257369_35
+  - first:
+      213: -5263304327976799223
+    second: cartoon-game-background-260nw-303257369_36
+  - first:
+      213: -6867598990150968515
+    second: cartoon-game-background-260nw-303257369_37
+  - first:
+      213: 782311208341825170
+    second: cartoon-game-background-260nw-303257369_38
+  - first:
+      213: -7556790067911956412
+    second: cartoon-game-background-260nw-303257369_39
+  - first:
+      213: -3132047816651764269
+    second: cartoon-game-background-260nw-303257369_40
+  - first:
+      213: 7507660190613636135
+    second: cartoon-game-background-260nw-303257369_41
+  - first:
+      213: -8231744980527995697
+    second: cartoon-game-background-260nw-303257369_42
+  - first:
+      213: -4044660998547988414
+    second: cartoon-game-background-260nw-303257369_43
+  - first:
+      213: 4754904348968396410
+    second: cartoon-game-background-260nw-303257369_44
+  - first:
+      213: 6934957456018583897
+    second: cartoon-game-background-260nw-303257369_45
+  - first:
+      213: 3812498770615459750
+    second: cartoon-game-background-260nw-303257369_46
+  - first:
+      213: 7474655118762536372
+    second: cartoon-game-background-260nw-303257369_47
+  - first:
+      213: -6048606526765696092
+    second: cartoon-game-background-260nw-303257369_48
+  - first:
+      213: 6292119653714711010
+    second: cartoon-game-background-260nw-303257369_49
+  - first:
+      213: 5979073650284950528
+    second: cartoon-game-background-260nw-303257369_50
+  - first:
+      213: -6644681260723849476
+    second: cartoon-game-background-260nw-303257369_51
+  - first:
+      213: 3773990660134022089
+    second: cartoon-game-background-260nw-303257369_52
+  - first:
+      213: -8271982850073769139
+    second: cartoon-game-background-260nw-303257369_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb0a7e7cd846950800000000000000
+      internalID: 6441429256770731484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c218e85c904e70800000000000000
+      internalID: 9097443152953002312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f4bd9b41e3dc60800000000000000
+      internalID: 7841859091066843936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9c33cfa0a4245c0800000000000000
+      internalID: -4232739288733464139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a6582f6d51a270800000000000000
+      internalID: 8259985923573721068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b68a4411a308c5f0800000000000000
+      internalID: -736334548710029642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad98e2deb2b73df20800000000000000
+      internalID: 3446233568461621722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82651744ff293f760800000000000000
+      internalID: 7490492230309860904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 233.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24309b0478a0aedf0800000000000000
+      internalID: -150296061540760766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1b43469f681c80800000000000000
+      internalID: -8351802817793810678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12337400140d9890800000000000000
+      internalID: -7449793741760286182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99be9631b21cbb0800000000000000
+      internalID: -4917601955730449957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb461db11e242e210800000000000000
+      internalID: 1360723572021093567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519be466ab5c81a30800000000000000
+      internalID: 4186313258011900181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255b9d2bd7b5bc70800000000000000
+      internalID: 8986290783478568232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7722c7080c6764320800000000000000
+      internalID: 2541849608858641015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec91e5e80976b6160800000000000000
+      internalID: 7019818314748533198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 187.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31ef371ee77dffc0800000000000000
+      internalID: -3459477074274688709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ad66fa97a7b62f0800000000000000
+      internalID: -978553830970566097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172348c9d81401420800000000000000
+      internalID: 2598649061464879729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760116997cc23210800000000000000
+      internalID: 1311335264099042932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7409f275c4779dc60800000000000000
+      internalID: 7843431395806384199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a371aab7e50aeafe0800000000000000
+      internalID: -1175826125035006150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dff2f6650d92750800000000000000
+      internalID: 6280780224996048246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24adfaf969b02c80800000000000000
+      internalID: -8349469844311268305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5e2f5367ba7b760800000000000000
+      internalID: 7473630630844229042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 141.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe0198ecb86e550800000000000000
+      internalID: 6189788457046437639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80aabd2687eb1fa0800000000000000
+      internalID: -5828810729222135668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8522207d49beff0800000000000000
+      internalID: -5747323336238884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacd91edeb69cbe20800000000000000
+      internalID: 3367732367880477868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1412ada368e5a0800000000000000
+      internalID: -6491829265454850267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b42b330591aa20800000000000000
+      internalID: 3071900261953089685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f823d67b29e39e0800000000000000
+      internalID: -1639711897807581423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd72f40391b47f0800000000000000
+      internalID: -627380027810915104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61746750bd8d048a0800000000000000
+      internalID: -6322815441627101418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 95.33333
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff1a0f0f5ee1c30800000000000000
+      internalID: 4332152714569056077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ba22999cf4f6b0800000000000000
+      internalID: -5263304327976799223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5834ca1361b0a0800000000000000
+      internalID: -6867598990150968515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296650d26e35bda00800000000000000
+      internalID: 782311208341825170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44868e78873e02790800000000000000
+      internalID: -7556790067911956412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd0fe4ea1bb884d0800000000000000
+      internalID: -3132047816651764269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7240ed38a21903860800000000000000
+      internalID: 7507660190613636135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4260acd87f2cd80800000000000000
+      internalID: -8231744980527995697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240aba8504a7ed7c0800000000000000
+      internalID: -4044660998547988414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a8351050dcf140800000000000000
+      internalID: 4754904348968396410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9513f62301bed3060800000000000000
+      internalID: 6934957456018583897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afd521be67b8e430800000000000000
+      internalID: 3812498770615459750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd65646a3f4bb760800000000000000
+      internalID: 7474655118762536372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab750a29680f0ca0800000000000000
+      internalID: -6048606526765696092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15bebec79125750800000000000000
+      internalID: 6292119653714711010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004f1237ecfe9f250800000000000000
+      internalID: 5979073650284950528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf63cd0399959c3a0800000000000000
+      internalID: -6644681260723849476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb2eea8288ef5430800000000000000
+      internalID: 3773990660134022089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-game-background-260nw-303257369_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3.333332
+        width: 48.11111
+        height: 46.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bca39bc63043d80800000000000000
+      internalID: -8271982850073769139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

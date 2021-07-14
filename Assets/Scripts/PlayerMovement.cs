@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -31,7 +32,11 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0)&& GameManager.gameOver==false)
+        if (GameManager.click)
+        {
+            GameManager.gameHasStarted = true;
+        }
+        if (Input.GetMouseButtonDown(0) && GameManager.gameOver == false&&GameManager.gameHasStarted==true)
         {
             rbBird.velocity = Vector2.zero;
             rbBird.velocity = new Vector2(rbBird.velocity.x, speedBird);
@@ -87,7 +92,7 @@ public class PlayerMovement : MonoBehaviour
             gameOverpanel.SetActive(true);
             scorepanel.SetActive(false);
             buttons.SetActive(false);
-
+            
             anim.enabled = false;
         }
         else if (collision.gameObject.CompareTag("Ground"))
